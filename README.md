@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Languages-Spanish English Portuguese-dodgerblue" />
 </p>
 
-- 🔌 Studying Electrical Engineering
-- 💻 Studying at Holberton School to be a Full Satck developer
+- 🔌 Studying Civil Engineering
+- 💻 Full Satck developer
 
 <br>
 
