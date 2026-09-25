@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Languages-Spanish English Portuguese-dodgerblue" />
 </p>
 
-- 🔌 Studying Civil Engineering
+- 🔌 Studying Computer Engineering
 - 💻 Full Satck developer
 
 <br>
